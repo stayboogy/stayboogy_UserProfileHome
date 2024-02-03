@@ -1,0 +1,3 @@
+defaults write com.apple.AppleGVA gvaForceAMDAVCDecode -boolean yes
+
+defaults delete com.apple.AppleGVA gvaForceAMDAVCDecode

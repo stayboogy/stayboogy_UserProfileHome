@@ -1,0 +1,5 @@
+manage-bde -on C:
+manage-bde -protectors -add C: -TPMandPin
+manage-bde -protectors C: -get
+manage-bde -protectors -add c: -recoverykey c:\TK-HEM00023976\
+
